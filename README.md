@@ -8,7 +8,7 @@
 2. To be able to apply and use the different codes and functions in creating a Python program using a *Pandas library*
 
 
-### | II. Instructions:
+### II. Instructions:
 
 We were tasked to write a Python script/code in our Jupyter Notebook for the given problems. To be submitted in the dedicated submission bin.
 
@@ -29,11 +29,11 @@ Using the dataframe cars in problem 1, extract the following information using s
 
 
 ### | Author
-
+___
 * RODRIGUEZ, Andrei Joshua A. | 2ECE-C
 
 ### | Version History
-
+___
 
 v1.3
 - Updated ReadMe file, added Author & Version history section.
