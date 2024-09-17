@@ -11,9 +11,9 @@
 ---
 
 ### II. Instructions:
-Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter notebook in the dedicated submission bin.
+We were tasked to write a Python script/code in our Jupyter Notebook for the given problems. To be submitted in the dedicated submission bin.
 
-For this programming assignment, we download the following file for us to do these problems: http://bit.ly/Cars_file 
+For this programming assignment, we must download the following file for us to do these problems: http://bit.ly/Cars_file 
 
 ---
 
